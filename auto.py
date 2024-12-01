@@ -1,5 +1,7 @@
-import time.
+import time
 from netmiko import ConnectHandler, NetMikoTimeoutException, NetMikoAuthenticationException
+
+print("toi la duy")
 
 # Định nghĩa các router.
 R1 = {
