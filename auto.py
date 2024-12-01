@@ -1,4 +1,4 @@
-import time
+import time.
 from netmiko import ConnectHandler, NetMikoTimeoutException, NetMikoAuthenticationException
 
 # Định nghĩa các router.
