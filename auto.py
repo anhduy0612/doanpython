@@ -1,7 +1,7 @@
 import time
 from netmiko import ConnectHandler, NetMikoTimeoutException, NetMikoAuthenticationException
 
-print("toi la duy")
+print(" Chao em nha ")
 
 # Định nghĩa các router.
 R1 = {
