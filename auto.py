@@ -1,6 +1,6 @@
 import time
 from netmiko import ConnectHandler, NetMikoTimeoutException, NetMikoAuthenticationException
-
+print("hello ")
 # Định nghĩa các router.
 R1 = {
     "device_type": "mikrotik_routeros",
